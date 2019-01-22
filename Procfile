@@ -1,0 +1,1 @@
+web: java -jar target/mongodb_keroku-1.0-SNAPSHOT.jar --spring.config.name=heroku
